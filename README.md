@@ -7,10 +7,11 @@ En premier lieu, l'ajout d'un underscore en AltGr Shift K pour compenser un bug 
 En second lieu, je chercherai à faire reconnaître à l'OS que le layout est aussi valable qu'un Azerty-FR dans toutes les zones système.
 
 # Installation
-Cloner le repository dans /Library/Keyboard Layouts/fr-dvorak-bepo.bundle
+Cloner le repository dans **/Library/Keyboard Layouts/fr-dvorak-bepo.bundle**
+```
  cd /Library Keyboard\ Layouts
  git clone https://github.com/woyczek/fr-dvorak-bepo-apple fr-dvorak-bepo.bundle
- 
+``` 
 et relancer la session
 
 # Voir aussi :
