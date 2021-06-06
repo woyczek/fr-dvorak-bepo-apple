@@ -9,7 +9,7 @@ En second lieu, je chercherai à faire reconnaître à l'OS que le layout est au
 # Installation
 Cloner le repository dans **/Library/Keyboard Layouts/fr-dvorak-bepo.bundle**
 ```
- cd /Library Keyboard\ Layouts
+ cd /Library/Keyboard\ Layouts
  git clone https://github.com/woyczek/fr-dvorak-bepo-apple fr-dvorak-bepo.bundle
 ``` 
 et relancer la session
